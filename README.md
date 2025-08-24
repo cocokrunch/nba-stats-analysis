@@ -28,12 +28,29 @@ Performance stats (points, rebounds, assists, net rating, usage %, TS%)
 SQL: PostgreSQL / MySQL
 
 Data Source: CSV file imported into SQL tables
+
 Kaggle Link: https://www.kaggle.com/datasets/justinas/nba-players-data/data
 
+
+# 📌 Entity-Relationship Diagram (EER)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d4c64245-d0cb-4584-9a71-909ad1b310d9" />
+
+The EER diagram represents the structure of the NBA dataset in a relational database. It consists of the following main entities:
+
+Players – Contains player information such as name, position, height, and weight.
+
+Teams – Stores NBA team details with abbreviations and full names.
+
+Seasons – Represents NBA seasons (e.g., 2010, 2023) and links statistics to a specific year.
+
+Player Stats – Holds statistical performance data (points, rebounds, assists, etc.), linked to players, teams, and seasons.
+
+Drafts – Records draft information including draft year, round, and pick number for each player.
+
+This structure allows efficient querying of player performance across seasons, teams, and career history, while also supporting analysis such as top scorers per season or comparisons of team performance.
 
 
 👤 Author
 
 Kim D.
 🎓 Computer Science Graduate | Aspiring Data Analyst
-
