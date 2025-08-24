@@ -9,7 +9,7 @@ The goal is to analyze player performance, team distribution, and trends over ti
 
 🗂️ Dataset
 
-Source: NBA all-seasons dataset (1996–2023)
+Source: NBA all-seasons dataset (1996–2022)
 
 Rows: Each row represents a player’s stats in a given season.
 
