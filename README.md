@@ -1,4 +1,4 @@
-# 🏀 NBA Player Stats SQL Project
+# 🏀 NBA Player Stats SQL
 
 
 📌 Project Overview
