@@ -1,30 +1,35 @@
-# 📌 Project Overview
+# 🏀 NBA Player Stats SQL Project
 
 
-This project demonstrates my ability to use SQL for data analysis. Using a retail sales dataset, I built a relational database, wrote SQL queries, and generated insights that could help a business understand its sales performance, customers, and products.
+📌 Project Overview
 
-The goal is to showcase core data analyst skills: data modeling, query writing, and extracting actionable insights.
+This project explores NBA player statistics across seasons using SQL. The dataset includes player attributes, team assignments, draft details, and performance metrics.
 
-🗂️ Dataset Source: Sample Sales Data (Kaggle)
+The goal is to analyze player performance, team distribution, and trends over time while demonstrating strong SQL querying and analytical skills.
 
-Description: Includes transaction-level data with fields such as customers, orders, products, regions, and revenue.
+🗂️ Dataset
 
-Tables Created:
+Source: NBA all-seasons dataset (1996–2023)
 
-Customers – customer details
+Rows: Each row represents a player’s stats in a given season.
 
-Orders – transaction details (date, order number, revenue, etc.)
+Key Features:
 
-Products – product category and pricing
+Player info (name, age, height, weight, college, country)
 
-Sales – links customers, orders, and products
+Team info (team abbreviation, season)
 
+Draft info (year, round, pick)
+
+Performance stats (points, rebounds, assists, net rating, usage %, TS%)
 
 🛠️ Tools & Technologies
 
-SQL: MySQL / PostgreSQL 
+SQL: PostgreSQL / MySQL
 
-Data Source: CSV → SQL tables
+Data Source: CSV file imported into SQL tables
+
+
 
 👤 Author
 
