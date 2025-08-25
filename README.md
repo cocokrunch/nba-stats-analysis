@@ -5,7 +5,9 @@
 
 This project explores NBA player statistics across seasons using SQL. The dataset includes player attributes, team assignments, draft details, and performance metrics.
 
-The goal is to analyze player performance, team distribution, and trends over time while demonstrating strong SQL querying and analytical skills.
+The goal is to analyze player performance, team distribution, and trends over time.
+
+This project demonstrates my ability to write complex SQL queries involving joins, aggregations, filtering, and window functions, while also analyzing the results to extract meaningful insights such as top scorers per season and team consistency.
 
 🗂️ Dataset
 
