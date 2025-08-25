@@ -49,6 +49,21 @@ Drafts – Records draft information including draft year, round, and pick numbe
 
 This structure allows efficient querying of player performance across seasons, teams, and career history, while also supporting analysis such as top scorers per season or comparisons of team performance.
 
+# 🏀 NBA SQL Project – What I Found
+
+1. Who really owned the scoreboard?
+
+I was curious about which players were dropping the most points from 2000 to 2022. After digging through the data, it was no surprise names like LeBron, Curry, Harden, and Durant kept showing up. It was cool to see how different players had their “eras” where they were basically unstoppable.
+
+📌 What I Found
+
+
+<img width="472" height="420" alt="top_scorers" src="https://github.com/user-attachments/assets/9c185098-12ba-4d98-a683-7006d21b3a78" /> <img width="472" height="406" alt="top_scorers_2" src="https://github.com/user-attachments/assets/3dfcd5e6-0420-4891-a071-f814836afea9" />
+
++ From 2000 to 2022, the top scorers per season included LeBron James, Kevin Durant, and Stephen Curry.
+
++ In 2018, James Harden led with an average of 36.10 PPG, marking the highest in the dataset.
+
 
 👤 Author
 
