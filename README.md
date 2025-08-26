@@ -57,8 +57,8 @@ This structure allows efficient querying of player performance across seasons, t
 
 I was curious about which players were dropping the most points from 2000 to 2022. After digging through the data, it was no surprise names like LeBron, Curry, Harden, and Durant kept showing up. It was cool to see how different players had their “eras” where they were basically unstoppable.
 
-📌 What I Found
 
+**📌 What I Found**
 
 <img width="472" height="420" alt="top_scorers" src="https://github.com/user-attachments/assets/9c185098-12ba-4d98-a683-7006d21b3a78" /> <img width="472" height="406" alt="top_scorers_2" src="https://github.com/user-attachments/assets/3dfcd5e6-0420-4891-a071-f814836afea9" />
 
@@ -70,6 +70,12 @@ I was curious about which players were dropping the most points from 2000 to 202
 
 Next, I looked at which player suited up the most for each team, the true “franchise guys.” By counting games played, I was able to find the long-term contributors who stuck around and became the face of their teams. This analysis really highlighted loyalty and endurance in a league that often sees players move around.
 
+
+**📌 What I Found**
+
+<img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/213d0b58-a7ad-4024-86f1-184793b47d98" /> <img width="381" height="380" alt="image" src="https://github.com/user-attachments/assets/d007bc70-75de-458f-8080-341e9f7b9342" />
+
++ The Dallas Mavericks' most consistent player in terms of games played was Dirk Nowitzki.
 
 👤 Author
 
