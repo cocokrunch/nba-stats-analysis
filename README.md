@@ -53,7 +53,7 @@ This structure allows efficient querying of player performance across seasons, t
 
 # 🏀 NBA SQL Project – What I Found
 
-1. Who really owned the scoreboard?
+**1. Who really owned the scoreboard?**
 
 I was curious about which players were dropping the most points from 2000 to 2022. After digging through the data, it was no surprise names like LeBron, Curry, Harden, and Durant kept showing up. It was cool to see how different players had their “eras” where they were basically unstoppable.
 
@@ -65,6 +65,10 @@ I was curious about which players were dropping the most points from 2000 to 202
 + From 2000 to 2022, the top scorers per season included LeBron James, Kevin Durant, and Stephen Curry.
 
 + In 2018, James Harden led with an average of 36.10 PPG, marking the highest in the dataset.
+
+**2. Every Team’s Franchise Player**
+
+Next, I looked at which player suited up the most for each team, the true “franchise guys.” By counting games played, I was able to find the long-term contributors who stuck around and became the face of their teams. This analysis really highlighted loyalty and endurance in a league that often sees players move around.
 
 
 👤 Author
