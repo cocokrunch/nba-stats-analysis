@@ -39,15 +39,15 @@ Kaggle Link: https://www.kaggle.com/datasets/justinas/nba-players-data/data
 
 The EER diagram represents the structure of the NBA dataset in a relational database. It consists of the following main entities:
 
-Players – Contains player information such as name, position, height, and weight.
+**Players** – Contains player information such as name, position, height, and weight.
 
-Teams – Stores NBA team details with abbreviations and full names.
+**Teams** – Stores NBA team details with abbreviations and full names.
 
-Seasons – Represents NBA seasons (e.g., 2010, 2023) and links statistics to a specific year.
+**Seasons** – Represents NBA seasons (e.g., 2010, 2023) and links statistics to a specific year.
 
-Player Stats – Holds statistical performance data (points, rebounds, assists, etc.), linked to players, teams, and seasons.
+**Player Stats** – Holds statistical performance data (points, rebounds, assists, etc.), linked to players, teams, and seasons.
 
-Drafts – Records draft information including draft year, round, and pick number for each player.
+**Drafts** – Records draft information including draft year, round, and pick number for each player.
 
 This structure allows efficient querying of player performance across seasons, teams, and career history, while also supporting analysis such as top scorers per season or comparisons of team performance.
 
@@ -77,7 +77,23 @@ Next, I looked at which player suited up the most for each team, the true “fra
 
 + The Dallas Mavericks' most consistent player in terms of games played was Dirk Nowitzki.
 
-👤 Author
 
-Kim D.
-🎓 Computer Science Graduate | Aspiring Data Analyst
+**3. Showing Player Average Stats**
+
+Then, I explored how players actually performed on the court by looking at their average points, rebounds, and assists for a given season. This gave a clear snapshot of who dominated offensively, who controlled the boards, and who created plays for teammates. It was a great way to identify the all-around stars and the specialists that shaped each season’s story.
+
+
+**📌 What I Found**
+
+<img width="497" height="245" alt="image" src="https://github.com/user-attachments/assets/8bbce4af-8271-495b-86da-e1105d4fb22d" />
+
++ In 2018-2019 season, James Harden got the most points per game, followed by Paul George.
++ Joel Embiid averaging 13.60 rebounds per game making it the most rebounds per game.
++ Lastly, Lebron James got the most assists in this season.
+
+
+**👤 Author**
+
+**Kim D.**
+
+**🎓 Computer Science Graduate | Aspiring Data Analyst**
