@@ -93,11 +93,17 @@ Then, I explored how players actually performed on the court by looking at their
 
 **4. Draft Class**
 
-Next, I explored specific draft years to see which players came into the league together and how they were picked. Using a join between the drafts, players, and teams tables, I pulled out the full 2003 draft class. This let me see not only who was drafted and at what pick, but also which team selected them—highlighting one of the most iconic draft classes in NBA history.
+Next, I explored specific draft years to see which players came into the league together and how they were picked. Using a join between the drafts, players, and teams tables, I pulled out the full 2003 draft class. This let me see not only who was drafted and at what pick, but also which team selected them highlighting one of the most iconic draft classes in NBA history.
+
+**📌 What I Found**
+
 
 <img width="461" height="387" alt="image" src="https://github.com/user-attachments/assets/46feeba2-224b-4384-a165-9fffbb8f1b59" /> <img width="462" height="388" alt="image" src="https://github.com/user-attachments/assets/93b39737-3b39-45a4-9c2b-2e2c24ca6c73" />
 
-
++ In the 2003 NBA Draft, LeBron James was selected 1st overall by the Cleveland Cavaliers, marking the start of one of the greatest careers in league history.
++ Other top picks included Carmelo Anthony (3rd, Denver Nuggets), Chris Bosh (4th, Toronto Raptors), and Dwyane Wade (5th, Miami Heat), all of whom went on to become All-Stars.
++ This draft class is remembered as one of the strongest in NBA history, with multiple future Hall of Famers and franchise-changing players entering the league together.
+  
 **👤 Author**
 
 **Kim D.**
