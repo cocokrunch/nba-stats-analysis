@@ -91,6 +91,12 @@ Then, I explored how players actually performed on the court by looking at their
 + Joel Embiid averaging 13.60 rebounds per game making it the most rebounds per game.
 + Lastly, Lebron James got the most assists in this season.
 
+**4. Draft Class**
+
+Next, I explored specific draft years to see which players came into the league together and how they were picked. Using a join between the drafts, players, and teams tables, I pulled out the full 2003 draft class. This let me see not only who was drafted and at what pick, but also which team selected them—highlighting one of the most iconic draft classes in NBA history.
+
+<img width="461" height="387" alt="image" src="https://github.com/user-attachments/assets/46feeba2-224b-4384-a165-9fffbb8f1b59" /> <img width="462" height="388" alt="image" src="https://github.com/user-attachments/assets/93b39737-3b39-45a4-9c2b-2e2c24ca6c73" />
+
 
 **👤 Author**
 
