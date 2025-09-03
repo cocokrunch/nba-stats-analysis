@@ -29,7 +29,7 @@ Performance stats (points, rebounds, assists, net rating, usage %, TS%)
 
 SQL: PostgreSQL / MySQL
 
-Data Source: CSV file imported into SQL tables
+Data Source: CSV file imported into SQL tables (used Excel features for cleaning the raw data)
 
 Kaggle Link: https://www.kaggle.com/datasets/justinas/nba-players-data/data
 
